@@ -1,6 +1,6 @@
 ---
 title: O Lago Negro
-image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41aef464-c5cf-4d81-913b-d4a3db142000/ddxr1q2-1e344295-7321-4344-beb4-f0c4acd9de5c.png/v1/fill/w_1192,h_670,q_70,strp/black_lake_nidstang_by_jkroots_ddxr1q2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzQxYWVmNDY0LWM1Y2YtNGQ4MS05MTNiLWQ0YTNkYjE0MjAwMC9kZHhyMXEyLTFlMzQ0Mjk1LTczMjEtNDM0NC1iZWI0LWYwYzRhY2Q5ZGU1Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Vy7nNsIqzZZOde4LV56aSwz3yxLLdYZiNKI8Eg0Xxlk
+image: https://i.imgur.com/vc7Mg8v.jpeg
 ---
 
 ---
