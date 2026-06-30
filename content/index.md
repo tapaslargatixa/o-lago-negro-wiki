@@ -1,6 +1,6 @@
 ---
 title: O Lago Negro
-socialimage: https://i.imgur.com/vc7Mg8v.jpeg
+socialimage: static/og-image.png
 cssclasses:
   - dashboard-lago
 locale: '"pt-BR"'
