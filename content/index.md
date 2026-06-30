@@ -1,5 +1,6 @@
 ---
 title: O Lago Negro
+image:
 ---
 
 ---
