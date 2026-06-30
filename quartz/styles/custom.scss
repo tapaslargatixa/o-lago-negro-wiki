@@ -50,11 +50,11 @@
     }
   }
 
-  // ESTILIZAÇÃO DO BOTÃO INTEIRO
+ // ESTILIZAÇÃO DO BOTÃO INTEIRO
   a.wiki-card {
     flex: 1 !important;
     display: flex !important;
-    flex-direction: column !important; // Alinha título e texto verticalmente
+    flex-direction: column !important; 
     align-items: flex-start !important;
     justify-content: flex-start !important;
     
@@ -88,8 +88,8 @@
 
     // O ESPAÇO DO TÍTULO (Substituindo o H3)
     .card-title {
-      display: block !important; // Força a quebra de linha para o texto ir para baixo
-      margin: 0 0 4px 0 !important; // Controla a proximidade com a descrição
+      display: block !important; 
+      margin: 0 0 4px 0 !important; 
       padding: 0 !important;
       color: #ffffff !important;
       font-size: 1.1em !important;
@@ -107,5 +107,77 @@
       padding: 0 !important;
       text-align: left !important;
     }
+  } // <-- Aqui fecha o a.wiki-card corretamente
+
+  // REGRA PARA TODAS AS IMAGENS DENTRO DO DASHBOARD
+  img {
+    height: 400px !important; /* Ajuste a altura como quiser */
+    width: auto !important;   /* Mantém a proporção */
   }
+
+} // <-- Aqui fecha o .dashboard-lago do início do arquivo
+
+/* =======================================================
+   SISTEMA DE LIGHTBOX (ZOOM DE IMAGEM)
+   ======================================================= */
+
+/* O fundo escuro e transparente */
+.custom-lightbox {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  background-color: rgba(0, 0, 0, 0.85) !important; /* Preto com 85% de opacidade */
+  z-index: 99999 !important; /* Fica acima de absolutamente tudo */
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  cursor: zoom-out !important;
+  opacity: 0;
+  transition: opacity 0.2s ease !important;
+  pointer-events: none; /* Ignora cliques quando invisível */
+}
+
+/* Quando o lightbox estiver ativo */
+.custom-lightbox.active {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* A imagem em tamanho grande */
+.custom-lightbox img {
+  max-width: 90% !important;
+  max-height: 90% !important;
+  object-fit: contain !important;
+  border-radius: 6px !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6) !important;
+  cursor: default !important;
+  transform: scale(0.95);
+  transition: transform 0.2s ease !important;
+}
+
+.custom-lightbox.active img {
+  transform: scale(1) !important;
+}
+
+/* O botão de fechar (X) */
+.lightbox-close {
+  position: absolute !important;
+  top: 20px !important;
+  right: 30px !important;
+  color: #a1a1aa !important;
+  font-size: 40px !important;
+  font-weight: 300 !important;
+  cursor: pointer !important;
+  transition: color 0.2s !important;
+}
+
+.lightbox-close:hover {
+  color: #e50914 !important; /* Vermelho combinando com seu tema */
+}
+
+/* Muda o cursor das imagens do seu dashboard para indicar que são clicáveis */
+.dashboard-lago img {
+  cursor: zoom-in !important;
 }
