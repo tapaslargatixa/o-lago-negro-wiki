@@ -18,7 +18,7 @@ A névoa encobre os restos de um mundo decadente. Este repositório reúne os re
 
 ---
 
-### 🗺️ SUMÁRIO
+### SUMÁRIO
 
 <div style="border: 1px solid #333; padding: 20px; background: #111; border-left: 4px solid #ff3333; border-radius: 4px; box-shadow: 3px 3px 8px rgba(0,0,0,0.5); margin-top: 1rem;">
   <h4 style="margin: 0;">
@@ -30,8 +30,6 @@ A névoa encobre os restos de um mundo decadente. Este repositório reúne os re
 <br>
 
 ---
-
-### ⚠️ AVISO AOS NAVEGANTES
 O conteúdo aqui é moldado conforme os passos dos jogadores. Nem tudo o que está documentado é a verdade absoluta; boatos e relatos de sobreviventes costumam ser distorcidos pelas más bocas e pela mente fragmentada.
 
 <div style="display: none;">[[A História]]</div>
