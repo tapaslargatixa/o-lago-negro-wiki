@@ -1,6 +1,6 @@
 ---
 title: O Lago Negro
-image:
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41aef464-c5cf-4d81-913b-d4a3db142000/ddxr1q2-1e344295-7321-4344-beb4-f0c4acd9de5c.png/v1/fill/w_1192,h_670,q_70,strp/black_lake_nidstang_by_jkroots_ddxr1q2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzQxYWVmNDY0LWM1Y2YtNGQ4MS05MTNiLWQ0YTNkYjE0MjAwMC9kZHhyMXEyLTFlMzQ0Mjk1LTczMjEtNDM0NC1iZWI0LWYwYzRhY2Q5ZGU1Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Vy7nNsIqzZZOde4LV56aSwz3yxLLdYZiNKI8Eg0Xxlk
 ---
 
 ---
@@ -23,7 +23,12 @@ A névoa encobre os restos de um mundo decadente. Este repositório reúne os re
 
 <div style="border: 1px solid #333; padding: 20px; background: #111; border-left: 4px solid #ff3333; border-radius: 4px; box-shadow: 3px 3px 8px rgba(0,0,0,0.5); margin-top: 1rem;">
   <h4 style="margin: 0;">
-    <a href="./a história" style="color: #ff3333 !important; text-decoration: none !important; background: transparent !important; background-color: transparent !important; font-size: 1.35rem; display: inline-block;">📜 História</a>
+    <a href="./a história" style="color: #ff3333 !important; text-decoration: none !important; background: transparent !important; background-color: transparent !important; font-size: 1.35rem; display: inline-block;"> História</a>
+  </h4>
+  <p style="margin-top: 10px; margin-bottom: 0; font-size: 0.9rem; color: #aaa;">Os mitos de criação, as eras passadas e a queda do cenário de Midgard.</p>
+</div> <div style="border: 1px solid #333; padding: 20px; background: #111; border-left: 4px solid #ff3333; border-radius: 4px; box-shadow: 3px 3px 8px rgba(0,0,0,0.5); margin-top: 1rem;">
+  <h4 style="margin: 0;">
+    <a href="./aesir" style="color: #ff3333 !important; text-decoration: none !important; background: transparent !important; background-color: transparent !important; font-size: 1.35rem; display: inline-block;"> Panteão</a>
   </h4>
   <p style="margin-top: 10px; margin-bottom: 0; font-size: 0.9rem; color: #aaa;">Os mitos de criação, as eras passadas e a queda do cenário de Midgard.</p>
 </div>
