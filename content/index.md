@@ -10,33 +10,18 @@ cssclasses:
   <h1 style="font-size: 2.8rem; color: #ff3333; margin-bottom: 0;">O LAGO NEGRO</h1>
   <span style="font-style: italic; color: #888; letter-spacing: 2px; font-size: 0.9rem;">— CRÔNICAS DE MIDGARD —</span>
 </div>
----
-> [!quote] "As águas escuras guardam segredos que a luz se recusa a tocar. O que afunda no lago, raramente permanece esquecido."
+
+> "As águas escuras guardam segredos que a luz se recusa a tocar. O que afunda no lago, raramente permanece esquecido."
+
 
 A névoa encobre os restos de um mundo decadente. Este repositório reúne os relatórios de investigação, mapas fragmentados e os registros de sanidade daqueles que ousaram desafiar as margens de Midgard. A verdade aqui é um recurso escasso.
 
+---
 ## SUMÁRIO
 
 <div class="card-container">
-  <div class="wiki-card">
-    <h3>🔴 História</h3>
-    <p>Os mitos de criação, as eras passadas e a queda do cenário de Midgard.</p>
-  </div>
-  <div class="wiki-card">
-    <h3>👁️ Panteão</h3>
-    <p>As divindades antigas, entidades profanas e os cultos esquecidos do abismo.</p>
-  </div>
-</div>
-
-<div class="card-container">
-  <div class="wiki-card">
-    <h3>📜 Investigações</h3>
-    <p>Relatórios de casos ocultos, avistamentos e diários de sanidade dos perdidos.</p>
-  </div>
-  <div class="wiki-card">
-    <h3>🗺️ Geografia</h3>
-    <p>Mapas fragmentados, marcos territoriais e as regiões corrompidas pela névoa.</p>
-  </div>
+  <a href="/a história" class="wiki-card"><span class="card-title"> História</span><span class="card-desc">Os mitos de criação, as eras passadas e a queda do cenário de Midgard.</span></a>
+  <a href="/aesir" class="wiki-card"><span class="card-title"> Panteão</span><span class="card-desc">As divindades que nos deram à vida, e também nos trouxeram à ruína.</span></a>
 </div>
 
 ---
