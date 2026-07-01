@@ -129,6 +129,8 @@ Os Aesir são governados por uma monarquia divina centralizada em Zeus. Apesar d
 
 As relações entre os Aesir são regidas por antigos pactos, deveres e interesses individuais. Conflitos internos são incomuns, mas não inexistentes.
 
+##### Esse documento data de antes da queda de Maharaath, vida longa aos 3 luminares.
+
 > "Que os deuses caiam de seus palácios dourados, e morram perante a lâmina da mortalidade."
 > — O Guia para matar os Aesir, Capítulo 5
 

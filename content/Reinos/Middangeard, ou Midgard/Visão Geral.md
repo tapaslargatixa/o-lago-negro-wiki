@@ -25,7 +25,7 @@ As Terras Livres constituem o último grande núcleo da civilização organizada
 ---
 
 ## Aurora
-
+![[Visão Geral-1782911528464.webp]]
 **Liderança:** [[Rainha Elyra Alfsdottir]].
 
 Aurora estende-se por vastas planícies douradas e tornou-se o principal celeiro de Middangeard. Quase metade dos alimentos consumidos nas Terras Livres parte de seus campos, tornando a cidade indispensável para a sobrevivência do continente. Suas muralhas cercam não apenas casas, mas também fazendas inteiras, canais de irrigação e enormes celeiros protegidos como fortalezas militares. Seus habitantes possuem fama de obstinados e resilientes; dizem que um agricultor de Aurora empunha uma foice com a mesma habilidade que um soldado maneja uma espada.
@@ -33,7 +33,7 @@ Aurora estende-se por vastas planícies douradas e tornou-se o principal celeiro
 ---
 
 ## Ducado de Yahru
-
+![[Visão Geral-1782911983624.webp]]
 **Liderança:** [[Duque Harald Yahru]].
 
 Entre colinas verdes e antigas fortalezas ergue-se o Ducado de Yahru, um dos últimos remanescentes da antiga nobreza humana. Seus cavaleiros ainda seguem códigos de honra originados antes da Era das Trevas, tornando-se referência para diversas ordens militares. A região produz excelentes cavalos de guerra e mantém uma das maiores forças de cavalaria do continente, frequentemente enviada para socorrer cidades ameaçadas pelas hordas.
@@ -41,7 +41,7 @@ Entre colinas verdes e antigas fortalezas ergue-se o Ducado de Yahru, um dos úl
 ---
 
 ## Nova Valhalla
-
+![[Visão Geral-1782912784559.webp]]
 **Liderança:** [[Jarl Astrid Goldenspear]].
 
 Construída após a destruição da lendária Valhalla, Nova Valhalla tornou-se símbolo da resistência humana. Seus habitantes vivem sob rígida disciplina militar, e praticamente toda família possui pelo menos um membro servindo nas muralhas ou nas patrulhas da fronteira. A cidade abriga inúmeros templos dedicados aos Luminares, fazendo dela um dos principais centros religiosos de Middangeard.
@@ -50,14 +50,14 @@ Construída após a destruição da lendária Valhalla, Nova Valhalla tornou-se 
 
 ## Albion
 
-**Liderança:** Arquimago Cedric Ainsworth.
+**Liderança:** [[Arquimago Cedric Ainsworth]].
 
 Albion preserva aquilo que o restante do continente perdeu: conhecimento. Suas bibliotecas guardam manuscritos da Era de Ouro, laboratórios continuam produzindo pesquisas arcanas e estudiosos viajam meses apenas para consultar seus arquivos. A cidade é governada por um conselho de magos, cuja influência política frequentemente rivaliza com a força militar das demais capitais. Muitos acreditam que Albion sobreviva não graças às suas muralhas, mas porque até mesmo as criaturas do Lago Negro parecem evitar a enorme concentração de mana existente em seu interior.
 
 ---
 
 ## Valdrheim
-
+![[Visão Geral-1782921503443.webp]]
 **Liderança:** [[Marechal Supremo Sigurd Hrafnsson]].
 
 Conhecida como a Cidade dos Sinos, Valdrheim foi construída diretamente sobre a Muralha dos Sinos e serve como quartel-general da defesa continental. Toda grande campanha militar parte de seus portões, e praticamente todas as ordens de cavaleiros mantêm representantes permanentes em seus salões. Sua população vive em estado de prontidão constante, acostumada ao som dos sinos ecoando pelos vales. É também o lar da Ordem dos Sinos, a organização responsável pela manutenção e proteção da cidade.
@@ -66,7 +66,7 @@ Conhecida como a Cidade dos Sinos, Valdrheim foi construída diretamente sobre a
 
 ## Ravenhold
 
-**Liderança:** Lorde Viktor Corvus.
+**Liderança:** [[Lorde Viktor Corvus]].
 
 Poucas cidades são tão temidas quanto Ravenhold. Erguida próxima às regiões mais perigosas do continente, ela tornou-se lar de caçadores de monstros, rastreadores e mercenários especializados em enfrentar criaturas que escapam da muralha. Seus habitantes valorizam resultados acima da honra, e dificilmente um caçador de Ravenhold aceita um contrato sem antes exigir pagamento adiantado.
 

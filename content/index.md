@@ -27,8 +27,8 @@ A névoa encobre os restos de um mundo decadente. Este repositório reúne os re
 </div>
 <div class="card-container">
   <a href="/explicação/luminares" class="wiki-card"><span class="card-title"> O Credo</span><span class="card-desc">Uma nova fé, baseada não em medo e respeito, mas sim em adoração, a única fé existente nos reinos mortais não considerada herética.</span></a>
-  <a href="/Reinos" class="wiki-card"><span class="card-title">Os Reinos Materiais</span><span class="card-desc">Uma descrição detalhada sobre caada plano material e sua respectiva história.</span></a>
-  <a href="/explicação/luminares" class="wiki-card"><span class="card-title"> Organizações</span><span class="card-desc">Uma nova fé, baseada não em medo e respeito, mas sim em adoração, a única fé existente nos reinos mortais não considerada herética.</span></a>
+  <a href="/Reinos" class="wiki-card"><span class="card-title">Os Reinos Materiais</span><span class="card-desc">Uma descrição detalhada sobre cada plano material e sua respectiva história.</span></a>
+  <a href="/explicação/luminares" class="wiki-card"><span class="card-title"> Organizações</span><span class="card-desc">As organizações que compõe o cenário de Midddangeard.</span></a>
 </div>
 
 
