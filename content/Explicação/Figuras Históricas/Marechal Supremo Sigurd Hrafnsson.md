@@ -24,3 +24,41 @@ Durante a célebre **Terceira Noite dos Sinos**, quando uma das maiores hordas j
 Apesar da autoridade absoluta que exerce sobre os exércitos das Terras Livres, Sigurd demonstra pouco interesse por política. Não disputa prestígio entre nobres, não interfere nos assuntos internos dos reinos e evita qualquer envolvimento em intrigas cortesãs. Seu respeito é conquistado exclusivamente pelo dever cumprido. Diante dele, um camponês que permaneceu firme na muralha possui o mesmo valor que um duque de sangue antigo. Essa postura fez dele uma das poucas figuras capazes de reunir governantes frequentemente rivais sob um único comando quando os sinos anunciam uma nova invasão.
 
 Nas muralhas de Valdrheim, soldados costumam tocar a pedra antes de assumir seus postos e repetir em silêncio uma antiga oração: **"Enquanto Sigurd vigiar, nós resistiremos."** Não se trata apenas de uma demonstração de respeito, mas da certeza de que existe ao menos um homem disposto a permanecer entre a humanidade e o fim do mundo, custe o que custar.
+
+<script>
+(function() {
+  function ligarLightbox() {
+    // Evita duplicar o lightbox na tela
+    if (document.getElementById("global-lightbox")) return;
+
+    // Cria a estrutura preta de fundo
+    const lightbox = document.createElement("div");
+    lightbox.id = "global-lightbox";
+    lightbox.className = "custom-lightbox";
+    lightbox.innerHTML = '<span class="lightbox-close">&times;</span><img id="lightbox-img" src="" alt="Zoom">';
+    document.body.appendChild(lightbox);
+
+    const lightboxImg = lightbox.querySelector("#lightbox-img");
+
+    // Escuta o clique nas imagens do seu dashboard
+    document.addEventListener("click", (e) => {
+      const target = e.target;
+      if (target.tagName === "IMG" && target.closest(".dashboard-lago")) {
+        lightboxImg.src = target.src;
+        lightbox.classList.add("active");
+      }
+    });
+
+    // Fecha ao clicar fora
+    lightbox.addEventListener("click", (e) => {
+      if (e.target !== lightboxImg) {
+        lightbox.classList.remove("active");
+      }
+    });
+  }
+
+  // Roda o código e garante que ele funcione nas transições de página do Quartz
+  ligarLightbox();
+  document.addEventListener("nav", ligarLightbox);
+})();
+</script>

@@ -26,3 +26,42 @@ Embora prefira permanecer distante das disputas políticas do sul, Hróaldr jama
 Entre os marinheiros circula uma antiga superstição. Dizem que, durante as tempestades mais violentas, é possível enxergar uma figura gigantesca caminhando sobre o gelo, espada em mãos, guiando navios perdidos de volta ao porto. Alguns afirmam tratar-se do espírito de antigos reis. Outros juram que é o próprio Hróaldr patrulhando suas fronteiras mesmo quando ninguém consegue vê-lo.
 
 No fim, pouco importa qual versão seja verdadeira. Em Helmfjord existe uma certeza compartilhada por todos: **enquanto o Rei do Norte permanecer de pé, o inverno jamais pertencerá aos inimigos de Middangeard.**
+
+
+<script>
+(function() {
+  function ligarLightbox() {
+    // Evita duplicar o lightbox na tela
+    if (document.getElementById("global-lightbox")) return;
+
+    // Cria a estrutura preta de fundo
+    const lightbox = document.createElement("div");
+    lightbox.id = "global-lightbox";
+    lightbox.className = "custom-lightbox";
+    lightbox.innerHTML = '<span class="lightbox-close">&times;</span><img id="lightbox-img" src="" alt="Zoom">';
+    document.body.appendChild(lightbox);
+
+    const lightboxImg = lightbox.querySelector("#lightbox-img");
+
+    // Escuta o clique nas imagens do seu dashboard
+    document.addEventListener("click", (e) => {
+      const target = e.target;
+      if (target.tagName === "IMG" && target.closest(".dashboard-lago")) {
+        lightboxImg.src = target.src;
+        lightbox.classList.add("active");
+      }
+    });
+
+    // Fecha ao clicar fora
+    lightbox.addEventListener("click", (e) => {
+      if (e.target !== lightboxImg) {
+        lightbox.classList.remove("active");
+      }
+    });
+  }
+
+  // Roda o código e garante que ele funcione nas transições de página do Quartz
+  ligarLightbox();
+  document.addEventListener("nav", ligarLightbox);
+})();
+</script>

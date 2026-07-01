@@ -30,5 +30,8 @@ A névoa encobre os restos de um mundo decadente. Este repositório reúne os re
   <a href="/Reinos" class="wiki-card"><span class="card-title">Os Reinos Materiais</span><span class="card-desc">Uma descrição detalhada sobre caada plano material e sua respectiva história.</span></a>
   <a href="/explicação/luminares" class="wiki-card"><span class="card-title"> Organizações</span><span class="card-desc">Uma nova fé, baseada não em medo e respeito, mas sim em adoração, a única fé existente nos reinos mortais não considerada herética.</span></a>
 </div>
+
+
 ---
+
 O conteúdo aqui é moldado conforme os passos dos jogadores. Nem tudo o que está documentado é a verdade absoluta; boatos e relatos de sobreviventes costumam ser distorcidos pelas más bocas e pela mente fragmentada.

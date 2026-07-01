@@ -1,3 +1,8 @@
+
+![[Middaengeard.jpg]]
+
+
+
 Middangeard, chamado pelos mortais simplesmente de **Midgard**, é o Reino do Meio e o único dos três grandes planos onde todas as formas de vida coexistem. Foi o primeiro mundo sólido a surgir das lágrimas derramadas por [[Anima]], quando a mana primordial adquiriu densidade suficiente para tornar-se pedra, oceano e montanha. Sobre sua superfície caminharam os Titãs, floresceram os Menn, ergueu-se Mah'rath e, por fim, abriu-se a cicatriz que viria a ser conhecida como [[Lago Negro]]. Diferentemente de Asdangeard, onde a realidade permanece saturada pela essência divina, ou de Subdangeard, consumido pela corrupção do vazio, Middangeard existe em permanente equilíbrio entre criação e destruição. Cada conflito entre deuses altera seu destino, e cada mudança na ordem do cosmos inevitavelmente deixa marcas sobre suas terras.
 
 Muito antes da humanidade construir suas primeiras cidades, o continente já carregava as cicatrizes da [[Guerra do Meio]]. Segundo os registros mais antigos, as grandes cordilheiras são os esqueletos petrificados dos Titãs abatidos pelos [[Aesir]]; oceanos ocupam crateras abertas por seus corpos, enquanto vales seguem cortes produzidos por armas capazes de dividir montanhas. Pouquíssimos acidentes geográficos de Middangeard podem ser considerados naturais. Quase toda a sua geografia foi moldada por uma guerra tão antiga que sequer os deuses parecem recordá-la completamente.
@@ -119,3 +124,42 @@ Esculpido nas encostas meridionais da Espinha do Mundo, o Berço de Ymir é a ú
 **Liderança:** Guardiã Lysara, a Voz Verde, Feérico Ascendido.
 
 A Floresta de Iysha permanece praticamente intocada desde os dias que antecederam a humanidade. Árvores colossais ocultam a luz do sol, rios cristalinos desaparecem sob raízes milenares e criaturas antigas caminham entre a vegetação sem jamais serem vistas completamente. Muitos acreditam que a própria floresta possua consciência, protegendo aqueles que a respeitam e condenando os invasores a vagar eternamente entre seus caminhos mutáveis. Poucos retornam iguais depois de atravessar Iysha.
+
+
+<script>
+(function() {
+  function ligarLightbox() {
+    // Evita duplicar o lightbox na tela
+    if (document.getElementById("global-lightbox")) return;
+
+    // Cria a estrutura preta de fundo
+    const lightbox = document.createElement("div");
+    lightbox.id = "global-lightbox";
+    lightbox.className = "custom-lightbox";
+    lightbox.innerHTML = '<span class="lightbox-close">&times;</span><img id="lightbox-img" src="" alt="Zoom">';
+    document.body.appendChild(lightbox);
+
+    const lightboxImg = lightbox.querySelector("#lightbox-img");
+
+    // Escuta o clique nas imagens do seu dashboard
+    document.addEventListener("click", (e) => {
+      const target = e.target;
+      if (target.tagName === "IMG" && target.closest(".dashboard-lago")) {
+        lightboxImg.src = target.src;
+        lightbox.classList.add("active");
+      }
+    });
+
+    // Fecha ao clicar fora
+    lightbox.addEventListener("click", (e) => {
+      if (e.target !== lightboxImg) {
+        lightbox.classList.remove("active");
+      }
+    });
+  }
+
+  // Roda o código e garante que ele funcione nas transições de página do Quartz
+  ligarLightbox();
+  document.addEventListener("nav", ligarLightbox);
+})();
+</script>
