@@ -23,3 +23,41 @@ Os próprios [[Aesir]] reconhecem a antiguidade do Sol. Embora jamais tenham se 
 
 > _"Os homens já adoraram reis, conquistadores e deuses. Todos caíram em desgraça. O Sol, porém, continua a nascer todas as manhãs, indiferente às glórias e às ruínas daqueles que caminham sob sua luz."_
 > — **O Códice da Mortalidade**
+
+<script>
+(function() {
+  function ligarLightbox() {
+    // Evita duplicar o lightbox na tela
+    if (document.getElementById("global-lightbox")) return;
+
+    // Cria a estrutura preta de fundo
+    const lightbox = document.createElement("div");
+    lightbox.id = "global-lightbox";
+    lightbox.className = "custom-lightbox";
+    lightbox.innerHTML = '<span class="lightbox-close">&times;</span><img id="lightbox-img" src="" alt="Zoom">';
+    document.body.appendChild(lightbox);
+
+    const lightboxImg = lightbox.querySelector("#lightbox-img");
+
+    // Escuta o clique nas imagens do seu dashboard
+    document.addEventListener("click", (e) => {
+      const target = e.target;
+      if (target.tagName === "IMG" && target.closest(".dashboard-lago")) {
+        lightboxImg.src = target.src;
+        lightbox.classList.add("active");
+      }
+    });
+
+    // Fecha ao clicar fora
+    lightbox.addEventListener("click", (e) => {
+      if (e.target !== lightboxImg) {
+        lightbox.classList.remove("active");
+      }
+    });
+  }
+
+  // Roda o código e garante que ele funcione nas transições de página do Quartz
+  ligarLightbox();
+  document.addEventListener("nav", ligarLightbox);
+})();
+</script>

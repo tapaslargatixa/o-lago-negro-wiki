@@ -23,3 +23,43 @@ Entre artistas, alquimistas e estudiosos, o Crepúsculo é representado como um 
 
 > _"Os homens aprendem a amar o nascer do Sol e a esperar pela Lua. Mas é no Crepúsculo que o mundo decide aquilo que continuará existindo amanhã."_  
 > — **O Códice da Mortalidade**
+
+
+
+<script>
+(function() {
+  function ligarLightbox() {
+    // Evita duplicar o lightbox na tela
+    if (document.getElementById("global-lightbox")) return;
+
+    // Cria a estrutura preta de fundo
+    const lightbox = document.createElement("div");
+    lightbox.id = "global-lightbox";
+    lightbox.className = "custom-lightbox";
+    lightbox.innerHTML = '<span class="lightbox-close">&times;</span><img id="lightbox-img" src="" alt="Zoom">';
+    document.body.appendChild(lightbox);
+
+    const lightboxImg = lightbox.querySelector("#lightbox-img");
+
+    // Escuta o clique nas imagens do seu dashboard
+    document.addEventListener("click", (e) => {
+      const target = e.target;
+      if (target.tagName === "IMG" && target.closest(".dashboard-lago")) {
+        lightboxImg.src = target.src;
+        lightbox.classList.add("active");
+      }
+    });
+
+    // Fecha ao clicar fora
+    lightbox.addEventListener("click", (e) => {
+      if (e.target !== lightboxImg) {
+        lightbox.classList.remove("active");
+      }
+    });
+  }
+
+  // Roda o código e garante que ele funcione nas transições de página do Quartz
+  ligarLightbox();
+  document.addEventListener("nav", ligarLightbox);
+})();
+</script>

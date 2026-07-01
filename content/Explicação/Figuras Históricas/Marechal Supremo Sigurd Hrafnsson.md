@@ -1,0 +1,26 @@
+---
+cssclasses:
+  - dashboard-lago
+---
+
+![[173b97e52bcb2fe80264caeb4cc5b625.jpg]]
+### O Escudo de Middangeard • Guardião da Muralha • Primeiro Defensor das Terras Livres
+
+> _"A muralha não separa homens de monstros. Ela separa esperança do fim."_  
+> — Sigurd Hrafnsson
+
+Não existe soldado nas Terras Livres que desconheça o nome de **Sigurd Hrafnsson**. Marechal Supremo de Valdrheim, **Grão-Mestre da [[Ordem dos Sinos]]** e comandante absoluto da Muralha dos Sinos, ele é considerado o maior estrategista militar da atualidade e o homem sobre cujos ombros repousa a sobrevivência da humanidade. Reis governam seus domínios, duques defendem suas fronteiras e magos preservam o conhecimento do passado; Sigurd, entretanto, protege o futuro. Enquanto ele permanecer vivo, muitos acreditam que a Muralha jamais cairá.
+
+Embora sua presença imponha respeito imediato, Sigurd está longe da imagem de um guerreiro selvagem. Alto, de ombros largos e porte atlético, move-se com uma elegância quase antinatural para alguém de sua estatura. Seus cabelos grisalhos, presos para trás, e o semblante sempre sereno conferem-lhe a aparência de um nobre muito mais do que a de um veterano de incontáveis batalhas. Seu rosto raramente demonstra emoção, e sua voz permanece firme mesmo diante do caos. Entre os soldados existe um velho ditado: **"Se o Marechal ainda fala calmamente, a batalha ainda pode ser vencida."**
+
+Sua armadura azul e prateada tornou-se um símbolo da própria Muralha dos Sinos. Ornamentada com arabescos e gravuras antigas, ela foi forjada pelos melhores mestres de Albion e reforçada com técnicas esquecidas da Era de Ouro, capaz de resistir tanto ao aço quanto à magia. Sigurd jamais utiliza coroas, medalhas ou mantos exuberantes; considera que a armadura é o único título de que necessita. Em suas mãos repousa **Gungnir**, uma longa alabarda cuja lâmina permanece impecável mesmo após décadas de combate. Diferentemente de muitos heróis que confiam na força bruta, Sigurd luta com precisão absoluta, utilizando o alcance de sua arma para controlar o campo de batalha e proteger aqueles que combatem ao seu lado.
+
+Filho de uma tradicional família de oficiais de Valdrheim, Sigurd nasceu dentro da própria sombra da Muralha dos Sinos. Cresceu ouvindo seus sinos ecoarem durante a madrugada e vendo companhias inteiras marcharem para confrontos dos quais poucas retornavam completas. Desde cedo compreendeu que defender Middangeard não era uma escolha, mas um dever. Ingressou no exército ainda muito jovem e ascendeu rapidamente graças à sua disciplina inabalável, sua inteligência estratégica e uma coragem que jamais beirava a imprudência. Para Sigurd, um comandante que busca glória pessoal coloca seus homens em risco; um verdadeiro líder retorna vivo junto com aqueles que jurou proteger.
+
+Sua maior virtude nunca foi a força física, embora poucos consigam igualá-la. O que realmente o tornou uma lenda foi sua capacidade de transformar derrotas inevitáveis em retiradas organizadas e posições desesperadoras em vitórias improváveis. Diversas fortalezas ainda existem porque Sigurd soube exatamente quando recuar, quando resistir e quando sacrificar uma posição para salvar milhares de vidas. Ele compreende que guerras não são vencidas por feitos heroicos, mas pela sobrevivência daqueles que continuarão lutando amanhã.
+
+Durante a célebre **Terceira Noite dos Sinos**, quando uma das maiores hordas já vistas emergiu do Lago Negro, Sigurd assumiu pessoalmente a defesa do setor central da muralha. Enquanto as linhas vizinhas cediam e os mensageiros anunciavam sucessivas derrotas, recusou-se a abandonar sua posição. Durante dois dias e uma noite inteira coordenou a resistência sem deixar o campo de batalha, reorganizando tropas, conduzindo contra-ataques e combatendo na linha de frente sempre que uma brecha ameaçava abrir-se. Quando os reforços finalmente chegaram, encontraram o Marechal ainda empunhando sua alabarda, cercado pelos corpos das criaturas que haviam tentado romper a muralha. Desde então, muitos passaram a chamá-lo de **Escudo de Middangeard**.
+
+Apesar da autoridade absoluta que exerce sobre os exércitos das Terras Livres, Sigurd demonstra pouco interesse por política. Não disputa prestígio entre nobres, não interfere nos assuntos internos dos reinos e evita qualquer envolvimento em intrigas cortesãs. Seu respeito é conquistado exclusivamente pelo dever cumprido. Diante dele, um camponês que permaneceu firme na muralha possui o mesmo valor que um duque de sangue antigo. Essa postura fez dele uma das poucas figuras capazes de reunir governantes frequentemente rivais sob um único comando quando os sinos anunciam uma nova invasão.
+
+Nas muralhas de Valdrheim, soldados costumam tocar a pedra antes de assumir seus postos e repetir em silêncio uma antiga oração: **"Enquanto Sigurd vigiar, nós resistiremos."** Não se trata apenas de uma demonstração de respeito, mas da certeza de que existe ao menos um homem disposto a permanecer entre a humanidade e o fim do mundo, custe o que custar.
