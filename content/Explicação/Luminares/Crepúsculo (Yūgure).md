@@ -3,7 +3,7 @@ cssclasses:
   - dashboard-lago
 ---
 
-![[11.png]]
+![[11.webp]]
 
 ## O Último Luminar
 

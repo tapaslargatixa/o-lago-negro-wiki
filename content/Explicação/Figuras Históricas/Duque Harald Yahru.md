@@ -3,7 +3,7 @@ cssclasses:
   - dashboard-lago
 ---
 
-![[da43ae365e18854bde973b78babb95d6 (1).jpg]]
+![[da43ae365e18854bde973b78babb95d6 (1).webp]]
 ### O Leão de Yahru • Herdeiro do Sangue Real • Senhor do Ducado de Yahru
 
 > _"Reis recebem coroas. Soberanos conquistam o direito de usá-las."_  

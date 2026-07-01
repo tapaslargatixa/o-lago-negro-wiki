@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard-lago
 ---
-![[c77829b7ed73b5a58cf44a9540050291.jpg]]
+![[c77829b7ed73b5a58cf44a9540050291.webp]]
 
 ### A Portadora da Tábuleta Dourada • A Santa da Guerra • Senhora de Nova Valhalla • A Luz da Rebelião
 

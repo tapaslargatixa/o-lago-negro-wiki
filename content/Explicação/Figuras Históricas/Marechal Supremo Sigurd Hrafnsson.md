@@ -3,7 +3,7 @@ cssclasses:
   - dashboard-lago
 ---
 
-![[173b97e52bcb2fe80264caeb4cc5b625.jpg]]
+![[173b97e52bcb2fe80264caeb4cc5b625.webp]]
 ### O Escudo de Middangeard • Guardião da Muralha • Primeiro Defensor das Terras Livres
 
 > _"A muralha não separa homens de monstros. Ela separa esperança do fim."_  

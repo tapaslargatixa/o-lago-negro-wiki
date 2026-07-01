@@ -4,7 +4,7 @@ cssclasses:
 ---
 
 
-![[12.png]]
+![[12.webp]]
 
 ## A Segunda Luminar
 

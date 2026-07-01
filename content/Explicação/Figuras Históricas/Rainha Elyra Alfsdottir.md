@@ -3,7 +3,7 @@ cssclasses:
   - dashboard-lago
 ---
 
-![[Rainha da Fertilidade.png]]
+![[Rainha da Fertilidade.webp]]
 
 ### A Rainha das Flores • A Rainha da Fertilidade • Senhora de Aurora
 

@@ -3,7 +3,7 @@ cssclasses:
   - dashboard-lago
 ---
 
-![[10.png]]
+![[10.webp]]
 
 ## O Primeiro Luminar
 

@@ -3,7 +3,7 @@ cssclasses:
   - dashboard-lago
 ---
 
-![[be9cda1c387a94abf17fd0f941be099c.jpg]]
+![[be9cda1c387a94abf17fd0f941be099c.webp]]
 ### O Rei do Norte • O Colosso de Gelo • Senhor de Helmfjord • Guardião dos Mares Congelados
 
 > _"O frio não mata os fracos. Apenas revela quem sempre foi."_  
