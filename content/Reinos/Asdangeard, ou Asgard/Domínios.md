@@ -1,6 +1,6 @@
 Espalhados entre a periferia selvagem e Æsirheim encontram-se os **Domínios**, vastos territórios administrados pelos Aesir. Cada domínio pertence a um único deus e funciona como uma combinação de reino, cidade e fortaleza, refletindo diretamente a natureza de seu governante. A geografia, a arquitetura e até mesmo as criaturas que ali habitam parecem moldadas pela essência da divindade que exerce autoridade sobre aquelas terras.
 
-Os antigos registros citam florestas eternas pertencentes a Ártemis, montanhas transformadas em forjas sob Hefesto, mares suspensos governados por Poseidon e campos cuja vegetação jamais deixa de florescer sob Deméter. Entretanto, quase todas essas descrições são anteriores à queda de Maharaath, e nenhuma expedição mortal voltou de Asdangeard para confirmar seu estado atual.
+Os antigos registros citam florestas eternas pertencentes a Ártemis, montanhas transformadas em forjas sob Hefesto, mares suspensos governados por Poseidon e campos cuja vegetação jamais deixa de florescer sob Deméter. 
 
 Também não se sabe quantos Domínios realmente existem. A crença popular associa um território a cada membro do panteão, mas textos mais antigos sugerem que alguns Aesir dividiam o mesmo domínio, enquanto outros governavam terras muito além das fronteiras conhecidas. Há inclusive referências a Domínios abandonados, cujos antigos senhores desapareceram por motivos que jamais foram registrados.
 
