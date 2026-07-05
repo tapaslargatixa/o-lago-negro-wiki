@@ -1,11 +1,10 @@
 
 ![[Middaengeard.jpg]]
 
+---
+Middangeard, chamado pelos mortais simplesmente de **Midgard**, é o Reino do Meio e o único dos três grandes planos onde todas as formas de vida coexistem. Foi o primeiro mundo sólido a surgir das lágrimas derramadas por [[Anima]], quando a mana primordial adquiriu densidade suficiente para tornar-se pedra, oceano e montanha. Sobre sua superfície caminharam os Titãs, floresceram os Menn, ergueu-se [[Maharaath |Mah'rath]] e, por fim, abriu-se a cicatriz que viria a ser conhecida como [[Lago Negro]]. Diferentemente de Asdangeard, onde a realidade permanece saturada pela essência divina, ou de Subdangeard, consumido pela corrupção do vazio, Middangeard existe em permanente equilíbrio entre criação e destruição. Cada conflito entre deuses altera seu destino, e cada mudança na ordem do cosmos inevitavelmente deixa marcas sobre suas terras.
 
-
-Middangeard, chamado pelos mortais simplesmente de **Midgard**, é o Reino do Meio e o único dos três grandes planos onde todas as formas de vida coexistem. Foi o primeiro mundo sólido a surgir das lágrimas derramadas por [[Anima]], quando a mana primordial adquiriu densidade suficiente para tornar-se pedra, oceano e montanha. Sobre sua superfície caminharam os Titãs, floresceram os Menn, ergueu-se Mah'rath e, por fim, abriu-se a cicatriz que viria a ser conhecida como [[Lago Negro]]. Diferentemente de Asdangeard, onde a realidade permanece saturada pela essência divina, ou de Subdangeard, consumido pela corrupção do vazio, Middangeard existe em permanente equilíbrio entre criação e destruição. Cada conflito entre deuses altera seu destino, e cada mudança na ordem do cosmos inevitavelmente deixa marcas sobre suas terras.
-
-Muito antes da humanidade construir suas primeiras cidades, o continente já carregava as cicatrizes da [[Guerra do Meio]]. Segundo os registros mais antigos, as grandes cordilheiras são os esqueletos petrificados dos Titãs abatidos pelos [[Aesir]]; oceanos ocupam crateras abertas por seus corpos, enquanto vales seguem cortes produzidos por armas capazes de dividir montanhas. Pouquíssimos acidentes geográficos de Middangeard podem ser considerados naturais. Quase toda a sua geografia foi moldada por uma guerra tão antiga que sequer os deuses parecem recordá-la completamente.
+Muito antes da humanidade construir suas primeiras cidades, o continente já carregava as cicatrizes da [[A História |Guerra do Meio]]. Segundo os registros mais antigos, as grandes cordilheiras são os esqueletos petrificados dos Titãs abatidos pelos [[Aesir]]; oceanos ocupam crateras abertas por seus corpos, enquanto vales seguem cortes produzidos por armas capazes de dividir montanhas. Pouquíssimos acidentes geográficos de Middangeard podem ser considerados naturais. Quase toda a sua geografia foi moldada por uma guerra tão antiga que sequer os deuses parecem recordá-la completamente.
 
 Dominando o continente de norte a sul ergue-se a **Espinha do Mundo**, também chamada de **Cordilheira dos Gigantes**, uma muralha colossal que divide Middangeard em dois grandes domínios. As montanhas ultrapassam as nuvens e tornam praticamente impossível qualquer travessia direta. Durante séculos acreditou-se que não existia passagem entre os dois lados do continente; entretanto, há um único corredor natural capaz de atravessar a cordilheira: a região do Lago Negro. A travessia, porém, cobra seu próprio preço. Durante a noite, criaturas vindas das profundezas emergem para caçar tudo o que respira, tornando qualquer expedição um suicídio. Apenas sob a luz do dia, quando a maioria dessas criaturas retorna às cavernas e às águas escuras para repousar, pequenas caravanas fortemente escoltadas ousam cruzar a passagem. Ainda assim, poucas chegam ao destino sem perdas, e praticamente todo o comércio, a diplomacia e as campanhas militares entre o leste e o oeste dependem desse perigoso gargalo.
 
@@ -105,7 +104,7 @@ Cobertos por névoas permanentes e canais de água escura, os Pântanos escondem
 ---
 # As Dunas
 
-**Liderança:** Sultão Kharim ibn Rashad.
+Liderança: Nobre Dragão do Fogo.
 
 Ao sudoeste do continente estende-se um vasto mar de areia conhecido simplesmente como As Dunas. Tempestades constantes remodelam a paisagem diariamente, soterrando cidades inteiras e revelando ruínas esquecidas da Era de Ouro. Um local inóspito e destruído, grande parte das criaturas da 1° Horda permanecem no local, tornando-o portanto, um território proibido.
 
@@ -113,7 +112,7 @@ Ao sudoeste do continente estende-se um vasto mar de areia conhecido simplesment
 
 # Berço de Ymir
 
-**Liderança:** Alto-Rei Dvalin Barba de Ferro.
+**Liderança:** Alto-Rei Dvalin Barba de Ferro (Isso data de desde a queda de Maharaath, desde então não é possível saber qual o líder, visto que não há contato com o mundo exterior)
 
 Esculpido nas encostas meridionais da Espinha do Mundo, o Berço de Ymir é a última grande fortaleza dos anões livres. Muito antes da Era das Trevas, quando sua lendária Forja Biológica passou a produzir armas, armaduras e construções vivas incomparáveis, os clãs anões compreenderam que seu povo se tornaria o recurso mais valioso de qualquer guerra. Antes que os grandes reinos pudessem transformá-los em propriedade, abandonaram suas colônias espalhadas pelo continente e selaram os portões de Ymir, jurando nunca mais abrir a fortaleza enquanto houvesse anões sendo caçados além de suas muralhas. A decisão preservou a nação, mas condenou milhares de artesãos, comerciantes e viajantes que viviam fora da fortaleza. Ao longo dos séculos, esses anões foram capturados, escravizados ou incorporados à força por diversos senhores de guerra, tornando-se ferreiros de enorme valor estratégico. Ainda hoje, possuir um mestre anão significa possuir uma vantagem militar considerável. Do interior de Ymir, porém, partem discretas expedições destinadas a resgatar seus irmãos perdidos, mantendo vivo um juramento antigo: nenhum filho das montanhas será abandonado para sempre.
 
