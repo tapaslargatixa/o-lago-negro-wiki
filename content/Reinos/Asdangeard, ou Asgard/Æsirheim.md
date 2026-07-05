@@ -5,3 +5,5 @@ Apesar de sua importância, muito pouco se sabe sobre sua verdadeira aparência.
 Os registros também divergem sobre seu tamanho. Alguns estudiosos acreditam que Æsirheim seja apenas uma metrópole colossal; outros defendem que ela ocupa praticamente toda a região central de Asdangeard, absorvendo inúmeras cidades menores ao longo de dezenas de milhares de anos. Seja qual for a verdade, todos os relatos concordam em um ponto: nenhuma construção conhecida em Middangeard seria capaz de rivalizar com sua escala.
 
 É também em Æsirheim que reside o chamado **Trono Celestial**, onde Zeus governa o Reino Superior ao lado do Conselho dos Aesir. A existência desse conselho é amplamente aceita, mas sua composição permanece desconhecida. Não se sabe quais deuses participam de suas decisões, quais são suas atribuições ou mesmo se ainda existe após a destruição de Maharaath. Os poucos documentos que mencionam suas reuniões foram escritos antes da Era das Trevas e terminam abruptamente, como se parte de seu conteúdo tivesse sido deliberadamente apagada.
+
+— Merlin, o Arquiteto

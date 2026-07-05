@@ -5,3 +5,5 @@ Os antigos registros citam florestas eternas pertencentes a Ártemis, montanhas 
 Também não se sabe quantos Domínios realmente existem. A crença popular associa um território a cada membro do panteão, mas textos mais antigos sugerem que alguns Aesir dividiam o mesmo domínio, enquanto outros governavam terras muito além das fronteiras conhecidas. Há inclusive referências a Domínios abandonados, cujos antigos senhores desapareceram por motivos que jamais foram registrados.
 
 Para os Menn, essas terras permanecem mais próximas da lenda do que da geografia. Poucos sequer acreditam que um mortal seria capaz de atravessar seus portões. Ainda assim, é consenso entre historiadores que os Domínios não são simples residências divinas, mas uma civilização inteira, construída durante milênios sobre um continente que jamais pertenceu aos homens.
+
+— Merlin, o Arquiteto
