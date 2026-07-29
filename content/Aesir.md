@@ -2,6 +2,11 @@
 cssclasses:
   - dashboard-lago
 ---
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h1 style="font-size: 2.8rem; color: #ff3333; margin-bottom: 0;">Aesir</h1>
+  <span style="font-style: italic; color: #888; letter-spacing: 2px; font-size: 0.9rem;">— Os Falsos Deuses —</span>
+</div>
+
 Os Aesir constituem o principal panteão divino conhecido, sendo entidades imortais que exercem domínio sobre diferentes aspectos da realidade. Cada Aesir está ligado a um conceito, fenômeno natural ou esfera de influência específica, possuindo autoridade absoluta sobre seu respectivo domínio.
 
 Embora frequentemente sejam chamados simplesmente de "deuses", os Aesir formam uma sociedade própria, organizada em uma rígida hierarquia política liderada por Zeus. Suas decisões moldam o funcionamento do mundo, interferindo direta ou indiretamente no destino das nações, das demais divindades e dos mortais.

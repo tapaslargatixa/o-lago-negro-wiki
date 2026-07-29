@@ -1,6 +1,94 @@
-// =======================================================
-// SYSTEMA DE LAYOUT: DASHBOARD COMPACTO E ANTIQUEBRA
-// =======================================================
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/fontsource/fonts/cinzel-decorative@latest/latin-700-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/fontsource/fonts/cinzel-decorative@latest/latin-900-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/fontsource/fonts/cinzel@latest/latin-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/fontsource/fonts/cinzel@latest/latin-600-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/fontsource/fonts/cinzel@latest/latin-700-normal.woff2') format('woff2');
+}
+
+/* =======================================================
+   CAMADA DE OVERRIDE — TRUQUE DO CASCADE LAYERS
+   O Quartz usa @layer (ex: "quartz-base", "quartz-themes-base").
+   Declarar essa camada "overrides" logo no topo, antes de tudo,
+   faz com que ela sempre vença o !important interno do Quartz.
+   ======================================================= */
+
+@layer overrides, quartz-base, quartz-components, quartz-custom;
+
+@layer overrides {
+  #quartz-root.page {
+    width: 100% !important;
+    max-width: 900px !important;
+
+    /* A CAUSA REAL DO BUG: o Quartz define min-width: 100dvw em telas
+       largas (@media min-width: 1200px). Quando min-width é maior que
+       max-width, o min-width SEMPRE vence (regra do modelo de caixa do
+       CSS, não é sobre cascata/!important). Por isso nada funcionava —
+       faltava zerar esse min-width. */
+    min-width: 0 !important;
+
+    margin: 0 auto !important;
+    box-sizing: border-box !important;
+  }
+
+  .center {
+    max-width: 680px !important;
+    width: 100% !important;
+    margin-inline: auto !important;
+    margin-block: 40px !important;
+  }
+
+  #quartz-body {
+    grid-template-columns: 1fr !important;
+    display: block !important;
+  }
+
+  .left.sidebar,
+  .right.sidebar {
+    display: none !important;
+  }
+
+  /* destaque de texto (==palavra==) — vermelho no lugar do amarelo padrão.
+     PRECISA estar aqui dentro da @layer overrides, senão perde pro !important do Quartz */
+  mark {
+    background-color: rgba(229, 9, 20, .35) !important;
+    color: #ffffff !important;
+    border-radius: 3px !important;
+    padding: 1px 4px !important;
+  }
+}
+
+/* =======================================================
+   SYSTEMA DE LAYOUT: DASHBOARD COMPACTO E ANTIQUEBRA
+   ======================================================= */
 
 .dashboard-lago {
   
@@ -33,7 +121,7 @@
     font-style: italic !important;
     padding: 10px 15px !important;
     margin: 15px auto !important;
-    max-width: 720px !important;
+    max-width: 900px !important;
     border-radius: 0 4px 4px 0 !important;
   }
 
@@ -41,81 +129,127 @@
     display: flex !important;
     gap: 12px !important;
     width: 100% !important;
-    max-width: 720px !important;
+    max-width: 900px !important;
     margin: 0 auto 12px auto !important;
 
-    @media (max-width: 768px) {
+    @media (max-width: 900px) {
       flex-direction: column !important;
       gap: 10px !important;
     }
   }
 
- // ESTILIZAÇÃO DO BOTÃO INTEIRO
+  /* ESTILIZAÇÃO DO BOTÃO INTEIRO */
   a.wiki-card {
+    position: relative !important;
     flex: 1 !important;
     display: flex !important;
     flex-direction: column !important; 
     align-items: flex-start !important;
     justify-content: flex-start !important;
     
-    background-color: #16161a !important;
-    border: 1px solid #27272a !important;
-    border-left: 4px solid #e50914 !important; 
-    border-radius: 6px !important;
-    padding: 12px 16px !important;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4) !important;
+    background: linear-gradient(160deg, #1c1c21 0%, #0e0e10 100%) !important;
+    border: 1px solid rgba(255,255,255,.08) !important;
+    border-radius: 10px !important;
+    padding: 18px 20px 20px 20px !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.5) !important;
     
     text-decoration: none !important; 
     border-bottom: none !important;   
     color: inherit !important;         
 
-    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease !important;
+    transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, background 0.25s ease !important;
 
-    // Remove qualquer ícone de link do Quartz
-    &::before, &::after, svg, .internal-link-icon {
+    /* Remove qualquer ícone de link do Quartz (mas deixa livre o ::before/::after
+       pra gente usar nos detalhes decorativos abaixo) */
+    svg, .internal-link-icon {
       display: none !important;
-      content: none !important;
+    }
+
+    /* linha de destaque no topo — acende no hover, tipo HUD de jogo */
+    &::before {
+      content: "" !important;
+      display: block !important;
+      position: absolute !important;
+      top: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      height: 2px !important;
+      background: linear-gradient(90deg, transparent, var(--red), transparent) !important;
+      opacity: .45 !important;
+      transition: opacity .25s ease !important;
+    }
+
+    /* brilho suave que aparece atrás do card no hover */
+    &::after {
+      content: "" !important;
+      display: block !important;
+      position: absolute !important;
+      inset: 0 !important;
+      background: radial-gradient(circle at 50% 0%, rgba(229,9,20,.08), transparent 70%) !important;
+      opacity: 0 !important;
+      transition: opacity .25s ease !important;
+      pointer-events: none !important;
     }
 
     &:hover {
-      border-color: #e50914 !important;
-      transform: translateY(-2px) !important; 
-      box-shadow: 0 4px 15px rgba(229, 9, 20, 0.2) !important;
-      background-color: #1c1c22 !important; 
+      border-color: rgba(229, 9, 20, .55) !important;
+      transform: translateY(-4px) !important; 
+      box-shadow: 0 12px 30px rgba(0,0,0,.55), 0 0 24px rgba(229, 9, 20, 0.18) !important;
+      background: linear-gradient(160deg, #212126 0%, #131315 100%) !important;
       text-decoration: none !important;
       border-bottom: none !important;
     }
 
-    // O ESPAÇO DO TÍTULO (Substituindo o H3)
-    .card-title {
-      display: block !important; 
-      margin: 0 0 4px 0 !important; 
-      padding: 0 !important;
-      color: #ffffff !important;
-      font-size: 1.1em !important;
-      font-family: system-ui, -apple-system, sans-serif !important;
-      font-weight: 600 !important;
+    &:hover::before {
+      opacity: 1 !important;
     }
 
-    // O ESPAÇO DA DESCRIÇÃO (Substituindo o P)
+    &:hover::after {
+      opacity: 1 !important;
+    }
+
+    /* O ESPAÇO DO TÍTULO (Substituindo o H3) */
+    .card-title {
+      display: flex !important;
+      align-items: center !important;
+      gap: 8px !important;
+      margin: 0 0 6px 0 !important; 
+      padding: 0 !important;
+      color: #ffffff !important;
+      font-size: 1.05em !important;
+      font-family: var(--font-heading), system-ui, sans-serif !important;
+      font-weight: 700 !important;
+      letter-spacing: 1px !important;
+      text-transform: uppercase !important;
+    }
+
+    .card-title::before {
+      content: "◆" !important;
+      color: var(--red) !important;
+      font-size: .65em !important;
+      flex-shrink: 0 !important;
+    }
+
+    /* O ESPAÇO DA DESCRIÇÃO (Substituindo o P) */
     .card-desc {
       display: block !important;
       color: #a1a1aa !important;
       font-size: 0.88em !important; 
-      line-height: 1.4 !important; 
+      line-height: 1.5 !important; 
       margin: 0 !important;
       padding: 0 !important;
       text-align: left !important;
     }
-  } // <-- Aqui fecha o a.wiki-card corretamente
+  } /* fecha o a.wiki-card */
 
-  // REGRA PARA TODAS AS IMAGENS DENTRO DO DASHBOARD
+  /* REGRA PARA TODAS AS IMAGENS DENTRO DO DASHBOARD */
   img {
     height: 400px !important; /* Ajuste a altura como quiser */
     width: auto !important;   /* Mantém a proporção */
   }
 
-} // <-- Aqui fecha o .dashboard-lago do início do arquivo
+} /* fecha o .dashboard-lago do início do arquivo */
 
 /* =======================================================
    SISTEMA DE LIGHTBOX (ZOOM DE IMAGEM)
@@ -180,4 +314,210 @@
 /* Muda o cursor das imagens do seu dashboard para indicar que são clicáveis */
 .dashboard-lago img {
   cursor: zoom-in !important;
+}
+
+/* =======================================================
+   TEMA GERAL
+   ======================================================= */
+
+:root {
+  --bg-main: #050505;
+  --bg-secondary: #0b0b0c;
+  --bg-panel: rgba(18,18,20,.92);
+
+  --border: rgba(255,255,255,.05);
+  --border-hover: rgba(229,9,20,.45);
+
+  --text: #ececec;
+  --muted: #8d8d92;
+
+  --red: #e50914;
+
+  /* Imagem de fundo do site — o arquivo deve estar em: quartz/static/bg-lago.jpg
+     IMPORTANTE: caminho SEM barra no início, porque seu site vive numa subpasta
+     (tapaslargatixa.github.io/o-lago-negro-wiki/) — com barra ele ignora essa subpasta */
+  --bg-image: url('./static/bg-lago.jpg');
+}
+
+/* A imagem em si, fixa e cobrindo a tela toda */
+body {
+  background-color: #000000 !important;
+  background-image: var(--bg-image) !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  color: var(--text);
+}
+
+/* Vinheta escura: escurece a imagem e funde as bordas com o preto */
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  z-index:-2;
+
+  background:
+      radial-gradient(circle at top,
+      rgba(229,9,20,.06),
+      transparent 45%),
+      radial-gradient(ellipse at center,
+      rgba(0,0,0,.1) 0%,
+      rgba(0,0,0,.4) 60%,
+      rgba(0,0,0,.75) 100%);
+}
+
+/* textura de grão + escurecida geral (deixa o fundo mais "sujo" e menos berrante) */
+body::after{
+  content:"";
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  z-index:-1;
+
+  background-image:
+      radial-gradient(rgba(255,255,255,.02) 1px, transparent 1px),
+      linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.2));
+
+  background-size:18px 18px, cover;
+
+  opacity:.9;
+}
+
+/* Ajuste rápido de intensidade: baixe esse número (ex: .5) se quiser ver MAIS da imagem,
+   suba (ex: .95) se quiser ver MENOS e ficar mais escuro/preto */
+
+/* =======================================================
+   FUNDO/APARÊNCIA DA CAIXA PRINCIPAL (.page / #quartz-root)
+   A largura dela já está definida lá em cima, na @layer overrides.
+   Aqui só ficam as propriedades visuais que já estavam funcionando.
+   ======================================================= */
+
+#quartz-root.page {
+    background: rgba(12,12,13,.78);
+    backdrop-filter: blur(14px);
+    border-radius:16px;
+    border:1px solid rgba(255,255,255,.04);
+    padding:32px;
+    box-shadow:
+        0 15px 60px rgba(0,0,0,.45);
+}
+
+::-webkit-scrollbar{
+    width:10px;
+}
+
+::-webkit-scrollbar-track{
+    background:#050505;
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#2b2b2b;
+
+    border-radius:999px;
+
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+    background:#e50914;
+
+}
+
+/* =======================================================
+   TIPOGRAFIA ESTILO "MENU DE JOGO DE FANTASIA"
+   Vale pra wiki inteira, não só essa página
+   ======================================================= */
+
+:root {
+  --font-display: 'Cinzel Decorative', serif; /* pros títulos GRANDES, tipo capa */
+  --font-heading: 'Cinzel', serif;             /* pros subtítulos/seções */
+}
+
+/* título automático que o Quartz gera no topo de cada página (ex: "O Lago Negro") */
+.article-title {
+    font-family: var(--font-heading) !important;
+    font-size: 2.3em !important;
+    letter-spacing: 2px !important;
+    color: #ffffff !important;
+    text-shadow: 0 0 12px rgba(229,9,20,.25) !important;
+}
+
+/* qualquer H1/H2/H3 dentro do conteúdo de qualquer página */
+.markdown-rendered h1 {
+    font-family: var(--font-display) !important;
+    letter-spacing: 3px !important;
+    color: #ffffff !important;
+}
+
+.markdown-rendered h2 {
+    font-family: var(--font-heading) !important;
+    font-size: 1.5em !important;
+    letter-spacing: 3px !important;
+    text-transform: uppercase !important;
+    color: var(--red) !important;
+    border-bottom: 1px solid rgba(229,9,20,.25) !important;
+    padding-bottom: 8px !important;
+    margin-top: 2.5rem !important;
+}
+
+.markdown-rendered h3 {
+    font-family: var(--font-heading) !important;
+    letter-spacing: 1.5px !important;
+    color: #eaeaea !important;
+}
+
+/* título dos cards de resumo (Sumário) também ganha a fonte de fantasia */
+.card-title {
+    font-family: var(--font-heading) !important;
+    letter-spacing: 0.5px !important;
+    font-size: 1.15em !important;
+}
+
+/* divisores (---) viram uma linha ornamentada com um losango no meio,
+   em vez daquela linha reta sem graça */
+.markdown-rendered hr {
+    border: none !important;
+    height: 1px !important;
+    background: linear-gradient(90deg, transparent, var(--red) 50%, transparent) !important;
+    margin: 2.5rem 0 !important;
+    position: relative !important;
+    overflow: visible !important;
+}
+
+.markdown-rendered hr::after {
+    content: "✦";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #050505;
+    padding: 0 14px;
+    color: var(--red);
+    font-size: 0.9rem;
+}
+
+/* Esconde o título + data automáticos do Quartz,
+   só nas páginas que usam o bloco customizado (dashboard-lago) */
+.center:has(.dashboard-lago) .page-title {
+    display: none !important;
+}
+
+.center:has(.dashboard-lago) .article-title {
+    display: none !important;
+}
+
+.center:has(.dashboard-lago) .page-meta {
+    display: none !important;
+}
+
+/* =======================================================
+   BALÃO DE PREVIEW (aparece ao passar o mouse num link interno)
+   Removido a pedido — não aparece mais
+   ======================================================= */
+
+.popover {
+    display: none !important;
 }
