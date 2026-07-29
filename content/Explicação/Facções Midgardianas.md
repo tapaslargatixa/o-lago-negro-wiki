@@ -9,9 +9,6 @@ A **Ordem dos Sinos** é a maior organização militar de Midgard, responsável 
 A ordem é comandada pelo **Marechal Supremo Sigurd Hrafnsson**, considerado uma das maiores autoridades militares de Midgard. Sob sua liderança, milhares de soldados permanecem mobilizados ao longo da muralha, realizando patrulhas, respondendo a invasões e coordenando expedições quando necessário.
 
 Servir na Ordem dos Sinos é considerado uma das maiores honras militares do reino, mas também uma das mais perigosas.
-
----
-
 ## Ordem da Tabuleta Dourada
 
 A **Ordem da Tabuleta Dourada** é a principal instituição religiosa de Midgard e atua como guardiã da fé nos **Três Luminares**. Além de preservar textos sagrados e orientar os fiéis, a organização é responsável por investigar heresias, cultos proibidos e práticas consideradas uma ameaça à estabilidade religiosa do reino.
@@ -19,17 +16,11 @@ A **Ordem da Tabuleta Dourada** é a principal instituição religiosa de Midgar
 A ordem é liderada pela **Jarl Astrid Goldenspire**, cuja autoridade se estende sobre inquisidores, sacerdotes e estudiosos espalhados por todo o território. Seus inquisidores possuem autonomia para conduzir investigações, realizar interrogatórios e julgar indivíduos acusados de blasfêmia, profanação ou propagação de doutrinas consideradas perigosas.
 
 Embora sua atuação seja frequentemente alvo de críticas, a Ordem da Tabuleta Dourada é vista por seus membros como a última defesa espiritual da humanidade.
-
----
-
 ## Os Espantalhos
 
 Os **Espantalhos** constituem a guarda pessoal da **Rainha Elira** e respondem exclusivamente às suas ordens. Além de proteger a soberana e a família real, a organização é encarregada da segurança da capital, da proteção das rotas de abastecimento e da defesa dos recursos que sustentam Midgard.
 
 Pouco se sabe sobre seus métodos de treinamento ou critérios de seleção. Seus integrantes raramente são vistos sem uniforme e costumam atuar de forma discreta, intervindo apenas quando necessário. A simples presença de um Espantalho costuma ser suficiente para encerrar conflitos dentro do território da Coroa.
-
----
-
 ## O Instituto
 
 **O Instituto** é a maior instituição dedicada ao estudo da magia em Middangeard. Sediado em Albion, reúne magos, alquimistas, pesquisadores e artífices arcanos responsáveis por preservar, desenvolver e regulamentar o conhecimento mágico.

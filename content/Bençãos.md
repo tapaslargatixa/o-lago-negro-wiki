@@ -10,7 +10,20 @@ locale: '"pt-BR"'
 
 
 <div class="card-container">
-  <a href="Diabo" class="wiki-card"><span class="card-title"> O Diabo </span><span class="card-desc">A Benção da liberdade, anseio, e rebeldia.</span></a>
+  <a href="Diabo" class="wiki-card"><span class="card-title"> A Benção do Diabo </span><span class="card-desc">A Benção da liberdade, anseio, e rebeldia.</span></a>
 </div>
+<div class="card-container">
+  <a href="Besta" class="wiki-card"><span class="card-title"> A Benção da Besta </span><span class="card-desc">A Benção da Teimosia, resiliência, e Humanidade.</span></a>
+</div>
+<div class="card-container">
+  <a href="Espada" class="wiki-card"><span class="card-title"> A Benção da Espada </span><span class="card-desc">A Benção da obssessão, disciplina, e foco.</span></a>
+</div>
+<div class="card-container">
+  <a href="Monarca" class="wiki-card"><span class="card-title"> A Benção do Monarca </span><span class="card-desc">A Benção da Liderança, da humildade, e das segundas chances.</span></a>
+</div>
+<div class="card-container">
+  <a href="Tolo" class="wiki-card"><span class="card-title"> A Benção do Louco </span><span class="card-desc">A Benção da mentira, do charme, e da engenhosidade.</span></a>
+</div>
+
 ---
 

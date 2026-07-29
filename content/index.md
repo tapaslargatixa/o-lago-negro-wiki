@@ -15,8 +15,6 @@ locale: '"pt-BR"'
 
 
 A névoa encobre os restos de um mundo decadente. Este repositório reúne os relatórios de investigação, mapas fragmentados e os registros de sanidade daqueles que ousaram desafiar as margens de Midgard. A verdade aqui é um recurso escasso.
-
----
 ## SUMÁRIO
 
 <div class="card-container">

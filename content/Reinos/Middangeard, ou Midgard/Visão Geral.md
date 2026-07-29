@@ -20,65 +20,46 @@ Hoje, Middangeard encontra-se dividido em diversas regiões cujas identidades fo
 **Liderança:** Conselho das Cidades Livres, sob predominância militar de Valdrheim.
 
 As Terras Livres constituem o último grande núcleo da civilização organizada. Fertilizadas por rios antigos e protegidas pela Muralha dos Sinos, concentram a maior parte da população humana sobrevivente, além das principais rotas comerciais, universidades, templos e fortalezas do continente. Apesar do nome, não existe um reino unificado governando essas terras; cidades, ducados e fortalezas administram seus próprios domínios, reunindo-se apenas quando a sobrevivência coletiva exige. O cotidiano é marcado pela constante preparação para a guerra. Crianças aprendem desde cedo a tocar os sinos de emergência, agricultores trabalham armados e praticamente toda estrada é patrulhada por mercenários ou Abençoados. Ainda assim, é nas Terras Livres que a humanidade preserva a esperança de reconstruir aquilo que perdeu durante a Queda.
-
----
-
 ## Aurora
 ![[Visão Geral-1782911528464.webp]]
 **Liderança:** [[Rainha Elyra Alfsdottir]].
 
 Aurora estende-se por vastas planícies douradas e tornou-se o principal celeiro de Middangeard. Quase metade dos alimentos consumidos nas Terras Livres parte de seus campos, tornando a cidade indispensável para a sobrevivência do continente. Suas muralhas cercam não apenas casas, mas também fazendas inteiras, canais de irrigação e enormes celeiros protegidos como fortalezas militares. Seus habitantes possuem fama de obstinados e resilientes; dizem que um agricultor de Aurora empunha uma foice com a mesma habilidade que um soldado maneja uma espada.
-
----
-
 ## Ducado de Yahru
 ![[Visão Geral-1782911983624.webp]]
 **Liderança:** [[Duque Harald Yahru]].
 
 Entre colinas verdes e antigas fortalezas ergue-se o Ducado de Yahru, um dos últimos remanescentes da antiga nobreza humana. Seus cavaleiros ainda seguem códigos de honra originados antes da Era das Trevas, tornando-se referência para diversas ordens militares. A região produz excelentes cavalos de guerra e mantém uma das maiores forças de cavalaria do continente, frequentemente enviada para socorrer cidades ameaçadas pelas hordas.
-
----
-
 ## Nova Valhalla
 ![[Visão Geral-1782912784559.webp]]
 **Liderança:** [[Jarl Astrid Goldenspear]].
 
 Construída após a destruição da lendária Valhalla, Nova Valhalla tornou-se símbolo da resistência humana. Seus habitantes vivem sob rígida disciplina militar, e praticamente toda família possui pelo menos um membro servindo nas muralhas ou nas patrulhas da fronteira. A cidade abriga inúmeros templos dedicados aos Luminares, fazendo dela um dos principais centros religiosos de Middangeard.
-
----
-
 ## Albion
 
 **Liderança:** [[Arquimago Cedric Ainsworth]].
 
 Albion preserva aquilo que o restante do continente perdeu: conhecimento. Suas bibliotecas guardam manuscritos da Era de Ouro, laboratórios continuam produzindo pesquisas arcanas e estudiosos viajam meses apenas para consultar seus arquivos. A cidade é governada por um conselho de magos, cuja influência política frequentemente rivaliza com a força militar das demais capitais. Muitos acreditam que Albion sobreviva não graças às suas muralhas, mas porque até mesmo as criaturas do Lago Negro parecem evitar a enorme concentração de mana existente em seu interior.
-
----
-
 ## Valdrheim
 ![[Visão Geral-1782921503443.webp]]
 **Liderança:** [[Marechal Supremo Sigurd Hrafnsson]].
 
 Conhecida como a Cidade dos Sinos, Valdrheim foi construída diretamente sobre a Muralha dos Sinos e serve como quartel-general da defesa continental. Toda grande campanha militar parte de seus portões, e praticamente todas as ordens de cavaleiros mantêm representantes permanentes em seus salões. Sua população vive em estado de prontidão constante, acostumada ao som dos sinos ecoando pelos vales. É também o lar da Ordem dos Sinos, a organização responsável pela manutenção e proteção da cidade.
-
----
-
 ## Ravenhold
 
 **Liderança:** [[Lorde Viktor Corvus]].
 
 Poucas cidades são tão temidas quanto Ravenhold. Erguida próxima às regiões mais perigosas do continente, ela tornou-se lar de caçadores de monstros, rastreadores e mercenários especializados em enfrentar criaturas que escapam da muralha. Seus habitantes valorizam resultados acima da honra, e dificilmente um caçador de Ravenhold aceita um contrato sem antes exigir pagamento adiantado.
+## Província de Ghuntir
 
----
+**Liderança:** Sohei-Mercador Kaien Shirotsuki.
 
+Erguida nos vales onde os rios descem da Espinha do Mundo, Ghuntir destoa das demais cidades das Terras Livres por sua arquitetura e costumes, herdados de povos que aqui preservaram sua língua e tradições muito antes da Queda de Mah'rath. Suas rotas fluviais e caravaneiras fazem dela o maior entreposto comercial do continente, movimentando seda, aço e mana refinada. Governada por guildas mercantes sob a autoridade do Sohei-Mercador — que também comanda as Lâminas de Seda, sua guarda particular —, Ghuntir é conhecida por uma verdade incômoda: nenhuma guerra em Middangeard é vencida sem depender, de algum modo, do que passa por seus portões.
 ## Os Três Cardeais
 
 **Liderança:** Conselho das Cidades Livres, sob predominância religiosa de Nova Valhalla.
 
 Muito mais do que uma fortaleza, Os Três Cardeais constituem um complexo militar formado por três enormes torres interligadas por muralhas suspensas. Controlam uma das principais passagens entre as Terras Livres e As Dunas, funcionando simultaneamente como fortaleza, prisão, mosteiro e centro de treinamento de inquisidores da Tabuleta da Ordem Dourada.
-
----
-
 ## Helmfjord
 
 **Liderança:** [[Rei Hróaldr Skallagrim]].
@@ -92,9 +73,6 @@ No extremo norte, entre mares congelados e fiordes profundos, encontra-se Helmfj
 **Liderança:** Nenhuma autoridade reconhecida.
 
 A leste da Espinha do Mundo estendem-se as Terras Selvagens, um imenso território onde a ordem desapareceu há séculos. Reinos ruíram, muralhas foram abandonadas e antigas estradas desapareceram sob a vegetação ou a corrupção. Pequenas aldeias sobrevivem isoladas, protegidas apenas por seus próprios guerreiros, enquanto tribos independentes disputam território com criaturas oriundas do Lago Negro. Para muitos habitantes das Terras Livres, cruzar a cordilheira significa entrar em um mundo onde a civilização jamais existiu.
-
----
-
 ## Os Pântanos
 
 **Liderança:** Desconhecida.
