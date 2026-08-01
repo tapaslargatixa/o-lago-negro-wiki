@@ -8,6 +8,7 @@ locale: '"pt-BR"'
   <span style="font-style: italic; color: #888; letter-spacing: 2px; font-size: 0.9rem;">— E o fardo de quem as carrega —</span>
 </div>
 
+> **As Bênçãos são manifestações de poder concedidas àqueles cujo espírito ressoa com um ideal maior. Cada indivíduo pode portar apenas uma única Bênção, escolhida de acordo com sua história, convicções e desejos mais profundos. Toda Bênção desperta inicialmente em seu estágio de _Despertar_. À medida que seu portador evolui, ela ascende ao estágio de _Ascensão_ e, por fim, alcança a _Apoteose_, aproximando seu detentor da própria divindade.**
 
 <div class="card-container">
   <a href="Diabo" class="wiki-card"><span class="card-title"> A Benção do Diabo </span><span class="card-desc">A Benção da liberdade, anseio, e rebeldia.</span></a>
