@@ -25,6 +25,14 @@ locale: '"pt-BR"'
 <div class="card-container">
   <a href="Tolo" class="wiki-card"><span class="card-title"> A Benção do Louco </span><span class="card-desc">A Benção da mentira, do charme, e da engenhosidade.</span></a>
 </div>
-
+<div class="card-container">
+  <a href="Anjo" class="wiki-card"><span class="card-title"> A Benção do Anjo </span><span class="card-desc">A Benção do Julgamento, da Paz, e da Mudança</span></a>
+</div>
+<div class="card-container">
+  <a href="Herói" class="wiki-card"><span class="card-title"> A Benção do Herói </span><span class="card-desc">A Benção da Persistência, força de vontade, e esperança.</span></a>
+</div>
+<div class="card-container">
+  <a href="Caçador" class="wiki-card"><span class="card-title"> A Benção do Caçador </span><span class="card-desc">A Benção do Frenesi, do Sangue, e das Emoções.</span></a>
+</div>
 ---
 
