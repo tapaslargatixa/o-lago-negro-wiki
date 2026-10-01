@@ -34,5 +34,8 @@ locale: '"pt-BR"'
 <div class="card-container">
   <a href="Caçador" class="wiki-card"><span class="card-title"> A Benção do Caçador - Pieter</span><span class="card-desc">A Benção do Frenesi, do Sangue, e das Emoções.</span></a>
 </div>
+<div class="card-container">
+  <a href="Cavaleiro" class="wiki-card"><span class="card-title"> A Benção do Cavaleiro</span><span class="card-desc">A Benção da vontade, obstinação, e das promessas.</span></a>
+</div>
 ---
 
