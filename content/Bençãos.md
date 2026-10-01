@@ -11,28 +11,28 @@ locale: '"pt-BR"'
 > **As Bênçãos são manifestações de poder concedidas àqueles cujo espírito ressoa com um ideal maior. Cada indivíduo pode portar apenas uma única Bênção, escolhida de acordo com sua história, convicções e desejos mais profundos. Toda Bênção desperta inicialmente em seu estágio de _Despertar_. À medida que seu portador evolui, ela ascende ao estágio de _Ascensão_ e, por fim, alcança a _Apoteose_, aproximando seu detentor da própria divindade.**
 
 <div class="card-container">
-  <a href="Diabo" class="wiki-card"><span class="card-title"> A Benção do Diabo </span><span class="card-desc">A Benção da liberdade, anseio, e rebeldia.</span></a>
+  <a href="Diabo" class="wiki-card"><span class="card-title"> A Benção do Diabo - Daemon </span><span class="card-desc">A Benção da liberdade, anseio, e rebeldia.</span></a>
 </div>
 <div class="card-container">
   <a href="Besta" class="wiki-card"><span class="card-title"> A Benção da Besta </span><span class="card-desc">A Benção da Teimosia, resiliência, e Humanidade.</span></a>
 </div>
 <div class="card-container">
-  <a href="Espada" class="wiki-card"><span class="card-title"> A Benção da Espada </span><span class="card-desc">A Benção da obssessão, disciplina, e foco.</span></a>
+  <a href="Espada" class="wiki-card"><span class="card-title"> A Benção da Espada - Kairon</span><span class="card-desc">A Benção da obssessão, disciplina, e foco.</span></a>
 </div>
 <div class="card-container">
-  <a href="Monarca" class="wiki-card"><span class="card-title"> A Benção do Monarca </span><span class="card-desc">A Benção da Liderança, da humildade, e das segundas chances.</span></a>
+  <a href="Monarca" class="wiki-card"><span class="card-title"> A Benção do Monarca  - Abigail </span><span class="card-desc">A Benção da Liderança, da humildade, e das segundas chances.</span></a>
 </div>
 <div class="card-container">
-  <a href="Tolo" class="wiki-card"><span class="card-title"> A Benção do Louco </span><span class="card-desc">A Benção da mentira, do charme, e da engenhosidade.</span></a>
+  <a href="Tolo" class="wiki-card"><span class="card-title"> A Benção do Louco - Markus </span><span class="card-desc">A Benção da mentira, do charme, e da engenhosidade.</span></a>
 </div>
 <div class="card-container">
-  <a href="Anjo" class="wiki-card"><span class="card-title"> A Benção do Anjo </span><span class="card-desc">A Benção do Julgamento, da Paz, e da Mudança</span></a>
+  <a href="Anjo" class="wiki-card"><span class="card-title"> A Benção do Anjo - Astra</span><span class="card-desc">A Benção do Julgamento, da Paz, e da Mudança</span></a>
 </div>
 <div class="card-container">
   <a href="Herói" class="wiki-card"><span class="card-title"> A Benção do Herói </span><span class="card-desc">A Benção da Persistência, força de vontade, e esperança.</span></a>
 </div>
 <div class="card-container">
-  <a href="Caçador" class="wiki-card"><span class="card-title"> A Benção do Caçador </span><span class="card-desc">A Benção do Frenesi, do Sangue, e das Emoções.</span></a>
+  <a href="Caçador" class="wiki-card"><span class="card-title"> A Benção do Caçador - Pieter</span><span class="card-desc">A Benção do Frenesi, do Sangue, e das Emoções.</span></a>
 </div>
 ---
 
