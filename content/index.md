@@ -26,6 +26,7 @@ A névoa encobre os restos de um mundo decadente. Este repositório reúne os re
   <a href="/explicação/luminares" class="wiki-card"><span class="card-title"> O Credo</span><span class="card-desc">Uma nova fé, baseada não em medo e respeito, mas sim em adoração, a única fé existente nos reinos mortais não considerada herética.</span></a>
   <a href="/Reinos" class="wiki-card"><span class="card-title">Os Reinos Materiais</span><span class="card-desc">Uma descrição detalhada sobre cada plano material e sua respectiva história.</span></a>
   <a href="/Facções Midgardianas" class="wiki-card"><span class="card-title"> Organizações</span><span class="card-desc">As organizações que compõe o cenário de Midddangeard.</span></a>
+  <a href="/Mundo das Reflexões, ou Reino dos Pesadelos" class="wiki-card"><span class="card-title"> Pesadelos</span><span class="card-desc">Um dos maiores mistérios acerca dos abençoados. Um reino de reflexos.</span></a>
 </div>
 
 
