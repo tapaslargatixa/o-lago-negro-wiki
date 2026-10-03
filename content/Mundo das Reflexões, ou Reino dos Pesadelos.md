@@ -2,6 +2,11 @@
 cssclasses:
   - dashboard-lago
 ---
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h1 style="font-size: 2.8rem; color: #ff3333; margin-bottom: 0;">Mundo das Reflexões</h1>
+  <span style="font-style: italic; color: #888; letter-spacing: 2px; font-size: 0.9rem;">— Ou, o Reino dos Pesadelos —</span>
+</div>
+
 O **Mundo das Reflexões**, também chamado de **Reino dos Pesadelos**, é uma dimensão relacionada aos medos e terrores produzidos pela humanidade. Sua origem é desconhecida, assim como sua natureza exata. O conhecimento disponível provém principalmente dos relatos de Abençoados que conseguiram retornar do local.
 
 O Reino abriga manifestações de medos racionais e irracionais. Essas manifestações não se limitam a criaturas: locais, objetos, acontecimentos e até pessoas podem possuir um equivalente dentro do Mundo das Reflexões. Cidades abandonadas, residências, florestas, campos de batalha e outros ambientes já foram registrados, alguns semelhantes a locais existentes no mundo real e outros sem origem identificada. Não se sabe se o Reino cria essas manifestações ou apenas as preserva.
