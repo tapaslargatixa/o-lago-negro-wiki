@@ -14,13 +14,13 @@ locale: '"pt-BR"'
   <a href="Diabo" class="wiki-card"><span class="card-title"> A Benção do Diabo - Daemon </span><span class="card-desc">A Benção da liberdade, anseio, e rebeldia.</span></a>
 </div>
 <div class="card-container">
-  <a href="Besta" class="wiki-card"><span class="card-title"> A Benção da Besta </span><span class="card-desc">A Benção da Teimosia, resiliência, e Humanidade.</span></a>
+  <a href="Besta" class="wiki-card"><span class="card-title"> A Benção da Besta - Gnar </span><span class="card-desc">A Benção da Teimosia, resiliência, e Humanidade.</span></a>
 </div>
 <div class="card-container">
-  <a href="Espada" class="wiki-card"><span class="card-title"> A Benção da Espada - Kairon</span><span class="card-desc">A Benção da obssessão, disciplina, e foco.</span></a>
+  <a href="Espada" class="wiki-card"><span class="card-title"> A Benção da Espada</span><span class="card-desc">A Benção da obssessão, disciplina, e foco.</span></a>
 </div>
 <div class="card-container">
-  <a href="Monarca" class="wiki-card"><span class="card-title"> A Benção do Monarca  - Abigail </span><span class="card-desc">A Benção da Liderança, da humildade, e das segundas chances.</span></a>
+  <a href="Monarca" class="wiki-card"><span class="card-title"> A Benção do Monarca </span><span class="card-desc">A Benção da Liderança, da humildade, e das segundas chances.</span></a>
 </div>
 <div class="card-container">
   <a href="Tolo" class="wiki-card"><span class="card-title"> A Benção do Louco - Markus </span><span class="card-desc">A Benção da mentira, do charme, e da engenhosidade.</span></a>
@@ -32,7 +32,7 @@ locale: '"pt-BR"'
   <a href="Herói" class="wiki-card"><span class="card-title"> A Benção do Herói </span><span class="card-desc">A Benção da Persistência, força de vontade, e esperança.</span></a>
 </div>
 <div class="card-container">
-  <a href="Caçador" class="wiki-card"><span class="card-title"> A Benção do Caçador - Pieter</span><span class="card-desc">A Benção do Frenesi, do Sangue, e das Emoções.</span></a>
+  <a href="Caçador" class="wiki-card"><span class="card-title"> A Benção do Caçador - Maresia</span><span class="card-desc">A Benção do Frenesi, do Sangue, e das Emoções.</span></a>
 </div>
 <div class="card-container">
   <a href="Cavaleiro" class="wiki-card"><span class="card-title"> A Benção do Cavaleiro</span><span class="card-desc">A Benção da vontade, obstinação, e das promessas.</span></a>
